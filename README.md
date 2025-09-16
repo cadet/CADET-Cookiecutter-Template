@@ -22,7 +22,7 @@ This cookiecutter template automatically generates the general file structure fo
    cookiecutter /path/to/cloned/cookiecutter-repository/
    ```
 
-4. Enter your input to all upcoming questions. Click <Enter> to assign the default values given in (). Following this, the file structure will be automatically generated.
+4. Enter your input to all upcoming questions. Click Enter to assign the default values given in (). Following this, the file structure will be automatically generated.
 
 5. Complete the repository creation by manually adding all missing information to the generated files. Initialize the git repository and add remotes to share your new repository.
 
