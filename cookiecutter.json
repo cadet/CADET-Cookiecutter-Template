@@ -1,13 +1,13 @@
 {
     "CADET_Repository_Title":"CADET-New-Repository",
     "Author1":"Author Name",
-    "Email_Autor1":"",
+    "Email_Author1":"",
     "Author2":"",
-    "Email_Autor2":"",
+    "Email_Author2":"",
     "Author3":"",
-    "Email_Autor3":"",
+    "Email_Author3":"",
     "Author4":"",
-    "Email_Autor4":"",
+    "Email_Author4":"",
     "Description":"This section in the README.md describes the general function of the repository.",
     "Installation":"This section in the README.md contains an installation guide for the contents of the repository.",
     "Getting_Started":"This section in the README.md describes how users can begin working with the contents of this repository."

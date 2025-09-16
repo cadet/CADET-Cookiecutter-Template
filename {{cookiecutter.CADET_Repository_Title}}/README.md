@@ -20,4 +20,4 @@
 
 ## Getting Started
 
-{{cookiecuter.Getting_Started}}
+{{cookiecutter.Getting_Started}}
