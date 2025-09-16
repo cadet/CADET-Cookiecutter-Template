@@ -9,4 +9,3 @@ dependencies:
   - jupyterlab
   - pip:
       - cookiecutter
-    
