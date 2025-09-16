@@ -1,4 +1,4 @@
-name: rdm_example
+name: CADET-cookiecutter
 channels:
   - conda-forge
 dependencies:
@@ -8,7 +8,5 @@ dependencies:
   - jupyterlab-myst
   - jupyterlab
   - pip:
-      - cadet-process[docs]
-      - cadet-rdm[jupyter]
       - cookiecutter
     
