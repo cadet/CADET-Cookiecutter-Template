@@ -1,0 +1,7 @@
+name: {{cookiecutter.CADET_Repository_Title}}
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - cadet
+  - pip
