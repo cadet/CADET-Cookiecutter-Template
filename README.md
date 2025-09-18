@@ -44,3 +44,4 @@ This cookiecutter template automatically creates a repository with the following
 * .pre-commit-config.yml
 * .github/dependabot.yml
 * .github/workflow/ruff.yml
+* .gitignore
